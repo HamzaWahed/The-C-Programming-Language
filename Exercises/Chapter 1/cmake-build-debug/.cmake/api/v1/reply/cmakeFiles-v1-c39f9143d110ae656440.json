@@ -86,8 +86,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/home/hamza/git/Books/The C Programming Language/Exercises/Chapter 1/cmake-build-debug",
-		"source" : "/home/hamza/git/Books/The C Programming Language/Exercises/Chapter 1"
+		"build" : "/home/hamza/git/The-C-Programming-Language/Exercises/Chapter 1/cmake-build-debug",
+		"source" : "/home/hamza/git/The-C-Programming-Language/Exercises/Chapter 1"
 	},
 	"version" : 
 	{

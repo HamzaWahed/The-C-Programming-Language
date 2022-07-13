@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/hamza/git/Books/The C Programming Language/Exercises/Chapter 1/cmake-build-debug"
+			"value" : "/home/hamza/git/The-C-Programming-Language/Exercises/Chapter 1/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -463,7 +463,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/hamza/git/Books/The C Programming Language/Exercises/Chapter 1"
+			"value" : "/home/hamza/git/The-C-Programming-Language/Exercises/Chapter 1"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -995,7 +995,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/hamza/git/Books/The C Programming Language/Exercises/Chapter 1/cmake-build-debug"
+			"value" : "/home/hamza/git/The-C-Programming-Language/Exercises/Chapter 1/cmake-build-debug"
 		},
 		{
 			"name" : "Chapter_1_IS_TOP_LEVEL",
@@ -1019,7 +1019,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/hamza/git/Books/The C Programming Language/Exercises/Chapter 1"
+			"value" : "/home/hamza/git/The-C-Programming-Language/Exercises/Chapter 1"
 		}
 	],
 	"kind" : "cache",

@@ -1,6 +1,7 @@
-/home/hamza/git/Books/The C Programming Language/Exercises/Chapter 1/cmake-build-debug/CMakeFiles/Chapter_1.dir
-/home/hamza/git/Books/The C Programming Language/Exercises/Chapter 1/cmake-build-debug/CMakeFiles/Chapter_1_0.dir
-/home/hamza/git/Books/The C Programming Language/Exercises/Chapter 1/cmake-build-debug/CMakeFiles/Chapter_1_1.dir
-/home/hamza/git/Books/The C Programming Language/Exercises/Chapter 1/cmake-build-debug/CMakeFiles/Chapter_1_2.dir
-/home/hamza/git/Books/The C Programming Language/Exercises/Chapter 1/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/hamza/git/Books/The C Programming Language/Exercises/Chapter 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/hamza/git/The-C-Programming-Language/Exercises/Chapter 1/cmake-build-debug/CMakeFiles/Chapter_1.dir
+/home/hamza/git/The-C-Programming-Language/Exercises/Chapter 1/cmake-build-debug/CMakeFiles/Chapter_1_0.dir
+/home/hamza/git/The-C-Programming-Language/Exercises/Chapter 1/cmake-build-debug/CMakeFiles/Chapter_1_1.dir
+/home/hamza/git/The-C-Programming-Language/Exercises/Chapter 1/cmake-build-debug/CMakeFiles/Chapter_1_2.dir
+/home/hamza/git/The-C-Programming-Language/Exercises/Chapter 1/cmake-build-debug/CMakeFiles/Chapter_1_3.dir
+/home/hamza/git/The-C-Programming-Language/Exercises/Chapter 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/hamza/git/The-C-Programming-Language/Exercises/Chapter 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
