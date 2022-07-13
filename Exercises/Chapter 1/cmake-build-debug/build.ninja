@@ -226,6 +226,37 @@ build Chapter_1_4: C_EXECUTABLE_LINKER__Chapter_1_4_Debug CMakeFiles/Chapter_1_4
   TARGET_FILE = Chapter_1_4
   TARGET_PDB = Chapter_1_4.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target Chapter_1_5
+
+
+#############################################
+# Order-only phony target for Chapter_1_5
+
+build cmake_object_order_depends_target_Chapter_1_5: phony || CMakeFiles/Chapter_1_5.dir
+
+build CMakeFiles/Chapter_1_5.dir/1-8.c.o: C_COMPILER__Chapter_1_5_Debug /home/hamza/git/The-C-Programming-Language/Exercises/Chapter$ 1/1-8.c || cmake_object_order_depends_target_Chapter_1_5
+  DEP_FILE = CMakeFiles/Chapter_1_5.dir/1-8.c.o.d
+  FLAGS = -g -std=gnu99
+  OBJECT_DIR = CMakeFiles/Chapter_1_5.dir
+  OBJECT_FILE_DIR = CMakeFiles/Chapter_1_5.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Chapter_1_5
+
+
+#############################################
+# Link the executable Chapter_1_5
+
+build Chapter_1_5: C_EXECUTABLE_LINKER__Chapter_1_5_Debug CMakeFiles/Chapter_1_5.dir/1-8.c.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/Chapter_1_5.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Chapter_1_5
+  TARGET_PDB = Chapter_1_5.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -261,7 +292,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /home/hamza/git/The-C-Programming-Language/Exercises/Chapter 1/cmake-build-debug
 
-build all: phony Chapter_1 Chapter_1_0 Chapter_1_1 Chapter_1_2 Chapter_1_3 Chapter_1_4
+build all: phony Chapter_1 Chapter_1_0 Chapter_1_1 Chapter_1_2 Chapter_1_3 Chapter_1_4 Chapter_1_5
 
 # =============================================================================
 # Built-in targets
